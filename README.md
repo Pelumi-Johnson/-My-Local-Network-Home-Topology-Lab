@@ -37,7 +37,7 @@ A visual representation of the home network showing:
 - Living room devices (TV, PS5, Speaker, iPhone, iPad, MacBook)  
 - Central wireless router connected by Ethernet to the ISP modem  
 
-![Home Network Diagram](./screenshots/home-network-diagram.png)
+![Home Network Diagram](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/Screenshot%202025-11-28%20012506.png)
 
 ---
 
