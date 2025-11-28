@@ -1,7 +1,7 @@
 # 🏠 My Local Network – Home Topology Lab
 
 📄 **Full Lab Report (Google Doc):**  
-👉 [Click here to open the complete lab report]()
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
 
 ---
 
